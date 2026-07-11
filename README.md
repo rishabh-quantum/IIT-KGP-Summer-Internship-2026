@@ -27,12 +27,16 @@ The project also includes implementing selected concepts using Qiskit to strengt
 - Learning Surface Codes and their implementation
 - Preparing the final internship report
   
-## Skills Developed
-- Quantum Error Correction
-- Surface Codes
+## Research Learning Outcomes
+
+- Fault-tolerant quantum computing
+- Surface Code Fundamentals
 - Quantum Information Theory
+- Qiskit (Basic Circuit Simulations)
 - LaTeX
-- Scientific Writing
+- Scientific Literature Review
+- Technical Report Writing
+- Theoretical Analysis of Quantum Error-Correcting Codes
 
 ## Repository Contents
 - Internship Progress Report
