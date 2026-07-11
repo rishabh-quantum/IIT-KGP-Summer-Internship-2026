@@ -1,5 +1,5 @@
 """
-Bit-flip Channel
+Bit-flip Channel code using Qiskit
 """
 
 import numpy as np
