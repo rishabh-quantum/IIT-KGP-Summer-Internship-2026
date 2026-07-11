@@ -1,5 +1,5 @@
 """
-3-Qubit Bit-Flip Code using Qiskit
+3-Qubit Phase-Flip Code using Qiskit
 """
 
 from qiskit import QuantumCircuit
