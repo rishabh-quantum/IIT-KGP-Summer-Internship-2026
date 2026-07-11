@@ -114,9 +114,6 @@ v = np.linspace(0, np.pi, 60)
 x = np.outer(np.cos(u), np.sin(v))
 y = np.outer(np.sin(u), np.sin(v))
 z = np.outer(np.ones(np.size(u)), np.cos(v))
-
-# Depolarizing transformation
-
 factor = 1 - p
 x_new = factor * x
 y_new = factor * y
