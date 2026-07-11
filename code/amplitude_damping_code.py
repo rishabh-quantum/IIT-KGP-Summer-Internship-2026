@@ -1,3 +1,7 @@
+"""
+Amplitude Damping Channel code using Qiskit
+"""
+
 import numpy as np
 from qiskit.quantum_info import Statevector
 from qiskit.quantum_info import Operator
@@ -103,9 +107,6 @@ v = np.linspace(0, np.pi, 60)
 x = np.outer(np.cos(u), np.sin(v))
 y = np.outer(np.sin(u), np.sin(v))
 z = np.outer(np.ones(np.size(u)), np.cos(v))
-
-# Depolarizing transformation
-
 x_new = np.sqrt(1-gamma)*x
 y_new = np.sqrt(1-gamma)*y
 z_new = (1-gamma)*z + gamma
