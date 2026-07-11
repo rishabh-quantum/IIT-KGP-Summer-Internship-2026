@@ -1,4 +1,6 @@
-"""3-Qubit Bit-Flip Code using Qiskit"""
+"""
+3-Qubit Bit-Flip Code using Qiskit
+"""
 
 from qiskit import QuantumCircuit
 from qiskit.quantum_info import Statevector
