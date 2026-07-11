@@ -1,5 +1,6 @@
-
-
+"""
+Depolarizing Channel code using Qiskit
+"""
 
 import numpy as np
 from qiskit.quantum_info import Statevector
