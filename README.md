@@ -25,6 +25,7 @@ The project also includes implementing selected concepts using Qiskit to strengt
 - Studied Bit-flip, Phase-flip Codes, Shor Codes, Steane Codes
 - Studied Quantum Noise and Quantum Operations
 - Explored Kraus (Operator-Sum) Representation
+- Extending my understanding of Quantum Error Correction to Shor and Steane Codes
 - Learning Surface Codes and their implementation
 - Preparing the final internship report
   
@@ -42,5 +43,4 @@ The project also includes implementing selected concepts using Qiskit to strengt
 - Additional Learning Resources
   
 ## Acknowledgements
-
 I would like to express my sincere gratitude to **Prof. Dr. Sonjoy Majumder** and the Department of Physics, IIT Kharagpur, for their guidance and support throughout this internship.
