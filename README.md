@@ -22,7 +22,7 @@ The project also includes implementing selected concepts using Qiskit to strengt
 
 ## Current Progress
 - Completed literature review on Quantum Error Correction
-- Studied Bit-flip and Phase-flip Codes
+- Studied Bit-flip, Phase-flip Codes, Shor Codes, Steane Codes
 - Studied Quantum Noise and Quantum Operations
 - Explored Kraus (Operator-Sum) Representation
 - Learning Surface Codes and their implementation
