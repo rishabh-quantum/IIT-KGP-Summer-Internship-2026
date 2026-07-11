@@ -40,7 +40,7 @@ The project also includes implementing selected concepts using Qiskit to strengt
 - Figures and Illustrations
 - Qiskit Demonstrations
 - Additional Learning Resources
-- 
+  
 ## Acknowledgements
 
 I would like to express my sincere gratitude to **Prof. Dr. Sonjoy Majumder** and the Department of Physics, IIT Kharagpur, for their guidance and support throughout this internship.
