@@ -1,5 +1,3 @@
-<img width="1878" height="858" alt="{00578261-FF29-4279-B004-0829C823B5C8}" src="https://github.com/user-attachments/assets/4a557151-0825-421c-9f72-0f7ebea5e0a1" /># Summer Research Internship – IIT Kharagpur (2026)
-
 ## Overview
 This repository documents my ongoing Summer Research Internship at the Department of Physics, Indian Institute of Technology Kharagpur. 
 The repository will be updated throughout the internship with project reports, Qiskit implementations, figures, and other relevant material as the work progresses.
@@ -47,5 +45,4 @@ I would like to express my sincere gratitude to **Prof. Dr. Sonjoy Majumder** an
 ## 📄 Progress Report
 
 The current progress report of the internship is available below.
-
 - [Progress Report](Progress_Report_IITKGP.pdf)
